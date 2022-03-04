@@ -1,4 +1,4 @@
-#Fix for Rams WordPress theme
+# Fix for Rams WordPress theme
 
 Version 2.0.0 of the Rams Theme by Anders Norén has an issue where the Previous and Next links do not show in the **POST META** section of a post.
 
